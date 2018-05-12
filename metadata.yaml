@@ -1,0 +1,27 @@
+_repo: Aquela-Fam-lia--13-Tipos-caricaturas-e-epis-dios-provincianos_34039
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Patrício, Ladislau
+    alias: Patricio, Ladislau
+    birthdate: 1883
+    deathdate: 1967
+    gutenberg_agent_id: '36698'
+    url: http://www.gutenberg.org/2009/agents/36698
+description: ''
+gutenberg_issued: '2010-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34039'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature'
+- !lcc 'PQ'
+title: 'Aquela Família: Tipos, caricaturas e episódios provincianos'
+url: http://www.gutenberg.org/ebooks/34039
